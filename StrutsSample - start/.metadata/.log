@@ -1,0 +1,13 @@
+!SESSION 2013-05-12 14:37:22.065 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data C:\MyProject\Product1\StrutsSample - start -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-05-12 14:37:25.805
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2013-05-12 14:37:45.745
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
